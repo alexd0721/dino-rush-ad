@@ -1,0 +1,22 @@
+{
+    "]Dr3Ll+c+7Pdbm*@e_f8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGZg9mZmZmZmBgBgZmYhImEGAGBvZhESYWYAYGZmISJhBgBgZmYREmEGAGBmZiESYWYAYG9mERJhBgBgZmYhImEGYPZmZmZmZmYAAAAAAAAABgAAAAAAAAYGAAAAAAAABgYAAAAAAABmBg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "dino1"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAQAAAAAAAAHwDxAAAAAAAvEPEAAAAAAB8A8vDwAAAALxDx8PAAAAD/8v/w8PAAAC/y/////wAA/////w8AAAAAAADwD/AAAADwD/D//wAAAPAP8A8AAAAA8A/wDwAAAADw//APAAAAAPD/8A8AAAAAAP//DwAAAAAA//8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAABEREREREREREAiIkJEREREQCIiIiJCBABALyIiIkIRAED0Iv8vQgQAQEQv/y9CEQBARCT/L0IEAEBEJCIiQhEAQEREREREBABARCQiIkIRAEBEJP8vQgQAQEQk/y9CEQBARC//L0IEAED0IiIiQhEAQC8iIiJCREREIiIiIkJERA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
